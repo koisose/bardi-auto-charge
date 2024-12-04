@@ -1,0 +1,11 @@
+{
+  "name": "rust-addon",
+  "version": "1.0.0",
+  "napi": {
+    "name": "rust-addon",
+    "triples": {
+      "defaults": true,
+      "additional": ["x86_64-unknown-linux-gnu"]
+    }
+  }
+}
